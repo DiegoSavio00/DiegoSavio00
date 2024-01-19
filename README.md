@@ -1,6 +1,6 @@
 ## Ola! Sou o Diego Savio 👋
 
-- 👀 Interessado no ambiente DotNet
+- 👀 Intusiasta de Tech em seu geral.
 - 🌱 Estou estudando C#, ASP.NET WEB API/MVC e SQL Server
 
 <div style="display: inline_block"><br>
